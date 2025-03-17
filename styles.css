@@ -1,0 +1,16 @@
+body {
+    padding-top:70px;
+}
+ 
+.section {
+    padding: 100px;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.bg-light {
+    background-color: #f8f9fa;
+}
